@@ -160,7 +160,7 @@ GameObject:
   - component: {fileID: 5237605532256530759}
   - component: {fileID: 5919407939645173164}
   m_Layer: 0
-  m_Name: Udon Button
+  m_Name: Udon Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
